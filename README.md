@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alex Wolf from Saint Paul , Minnesota who is  always learning new things and making new projects.
+I am Alex Wolf from Minneapolis, Minnesota who is always learning new things and making new projects.
 
 - 😄 Pronouns: He/him
 
@@ -17,7 +17,7 @@ I am Alex Wolf from Saint Paul , Minnesota who is  always learning new things an
 
 - Learning 🌱
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go logo" width="50">](https://golang.org/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" alt="elixir logo" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go logo" width="50">](https://golang.org/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png" alt="elixir logo" width="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="50">
 
 
 ### Tools 🛠️
